@@ -39,7 +39,7 @@ Task. The work is as follows:
 
 ### class_form
 
-![class_form](Lab1/img/student-table.png)
+![class_form](Lab1/img/class-table.png)
 
 ## Conclusion
 
