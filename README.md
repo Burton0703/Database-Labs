@@ -15,6 +15,12 @@ Task. The work is as follows:
    PostgreSQL and pgAdmin 4) and enter a few rows of data into each of
    the tables using phpMyAdmin or pgAdmin 4.
 
+#### Name: Чжан Цзябао
+
+#### Group: ІП-07
+
+#### Variant: School
+
 ## ER-diagrams
 
 [demo](https://github.com/Burton0703/Database-Labs/blob/main/Lab1/ERD.drawio.svg)
