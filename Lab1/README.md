@@ -27,25 +27,25 @@ Task. The work is as follows:
 
 ### designer
 
-![designer](Lab1/img/designer.png)
+![designer](/Lab1/img/designer.png)
 
 ## screen forms of contents
 
 ### subjects_form
 
-![subjects_form](Lab1/img/subjects-table.png)
+![subjects_form](/Lab1/img/subjects-table.png)
 
 ### students_form
 
-![students_form](Lab1/img/student-table.png)
+![students_form](/Lab1/img/student-table.png)
 
 ### teachers_form
 
-![teachers_form](Lab1/img/teachers-table.png)
+![teachers_form](/Lab1/img/teachers-table.png)
 
 ### class_form
 
-![class_form](Lab1/img/class-table.png)
+![class_form](/Lab1/img/class-table.png)
 
 ## Conclusion
 
