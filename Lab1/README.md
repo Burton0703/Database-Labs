@@ -21,9 +21,9 @@ Task. The work is as follows:
 
 ### Variant: School
 
-## ER-diagrams
+### ER-diagrams
 
-![ERD](Lab1/img/designer.png)
+![erd](/Lab1/img/ER_Diagrams.png)
 
 ### designer
 
