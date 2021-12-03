@@ -23,7 +23,7 @@ Task. The work is as follows:
 
 ## ER-diagrams
 
-[demo](https://github.com/Burton0703/Database-Labs/blob/main/Lab1/ERD.drawio.svg)
+![ERD](Lab1/img/designer.png)
 
 ### designer
 
@@ -33,19 +33,19 @@ Task. The work is as follows:
 
 ### subjects_form
 
-![subjects_form](/Lab1/img/subjects-table.png)
+![subjects_form](/Lab1/img/subjects_table.png)
 
 ### students_form
 
-![students_form](/Lab1/img/student-table.png)
+![students_form](/Lab1/img/students_table.png)
 
 ### teachers_form
 
-![teachers_form](/Lab1/img/teachers-table.png)
+![teachers_form](/Lab1/img/teachers_table.png)
 
 ### class_form
 
-![class_form](/Lab1/img/class-table.png)
+![class_form](/Lab1/img/class_table.png)
 
 ## Conclusion
 
